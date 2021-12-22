@@ -1,3 +1,8 @@
+This is just a quick test. I have left the beginning instructions below for future use. 
+
+Thank you and enjoy! 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
